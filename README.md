@@ -1,3 +1,5 @@
+# WE'RE MOVING! USE THIS REPO INSTEAD: https://github.com/Xelvanta/Anndromeda-RoyaleAPI
+
 # Royale High API
 
 This is a Quart API to fetch Royale High item names and their community values from Traderie.
